@@ -57,8 +57,8 @@
 
 ```bash
 curl -O https://raw.githubusercontent.com/avar-soft/wireguard-classic/main/wireguard-classic.sh
-chmod +x wireguard.sh
-sudo bash wireguard.sh
+chmod +x wireguard-classic.sh
+sudo bash wireguard-classic.sh
 ```
 
 ### Или через git
